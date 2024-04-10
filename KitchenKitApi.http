@@ -1,0 +1,6 @@
+@KitchenKitApi_HostAddress = http://localhost:5132
+
+GET {{KitchenKitApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
